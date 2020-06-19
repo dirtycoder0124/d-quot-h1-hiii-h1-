@@ -95,7 +95,7 @@ Feature: "><h1>hi
     \”-confirm`1`//
     \”}})})-confirm`1`(a=>{({b:{/*///
     
-    <input autofocus onfocus=alert(1)>   
+    <input autofocus onfocus=alert(1)>
     <input/onfocus="alert(0);" autofocus>
     
     
